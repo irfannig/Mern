@@ -1,2 +1,2 @@
-# Mean
-mean stack project
+# Mern
+mern stack project
